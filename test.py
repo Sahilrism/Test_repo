@@ -22,3 +22,5 @@ print(len(div_1))
 print("Be Happy Code is working")
 
 print("What is Your Dream")
+
+print("My dream is to be cricketer")
